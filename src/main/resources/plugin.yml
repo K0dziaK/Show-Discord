@@ -1,0 +1,10 @@
+name: Show-Discord
+version: '${project.version}'
+main: pl.kodziak.showdiscord.ShowDiscord
+api-version: 1.16
+authors: [ K0dziaK ]
+
+commands:
+  nagroda:
+    aliases: [nagrody]
+  discord:
